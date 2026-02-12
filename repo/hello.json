@@ -1,20 +1,5 @@
 [
   {
-    "title": "hello",
-    "wbs": "1",
-    "parent_id": null,
-    "_id": "123"
-  },
-  {
-    "title": "ashok",
-    "wbs": "1.1",
-    "parent_id": "123",
-    "_id": "345"
-  },
-  {
-    "title": "newTask",
-    "wbs": "1.4",
-    "parent_id": "123",
-    "_id": "999"
+    "name": "Ashok"
   }
 ]
